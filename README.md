@@ -3,13 +3,13 @@ CHIRAG PATEL
 
 ABOUT
 
-A 3rd Year UnderGrad Pursuing B-Tech in Computer Science Engineering from Gurukul kangri (Deemed to be University). 
+#A 3rd Year UnderGrad Pursuing B-Tech in Computer Science Engineering from Gurukul kangri (Deemed to be University). 
 
-Email - cp80016@gmail.com 
+#Email - cp80016@gmail.com 
 
-Mobile no.  +919098465107
+#Mobile no.  +919098465107
 
-Location - Bhopal,India
+#Location - Bhopal,India
 
 LinkedIn/in/chirag-patel-3887bb193 
 
